@@ -11,6 +11,6 @@ Data Validation
 Charts
 Maps
 
-##Conclusions
+## Conclusions
 
 Through this analysis, I discovered that while Data Scientist roles command the highest median salaries, Data Analyst roles are significantly more prevalent in the 2023 market. Additionally, the United States remains the top-paying country for data roles, but Australia offers highly competitive hourly rates for contractors"
